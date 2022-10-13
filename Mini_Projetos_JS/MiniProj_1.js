@@ -1,5 +1,4 @@
-/*Mini-Projeto-- Trocando Valores de Variáveis
-*/
+/* Mini-Projeto-- Trocando Valores de Variáveis */
 
 /*Definindo as variaveis */
 let a = 'vermelho';
