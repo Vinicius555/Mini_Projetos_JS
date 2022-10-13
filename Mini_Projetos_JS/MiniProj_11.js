@@ -1,11 +1,11 @@
-// Obejeto Endereço
-
-
-//Criar um obejto endereço que contem:
-//Rua
-//Cidade
-//CEp
-//exibirEndereço(endereco)
+/* 
+Objeto Endereço
+Criar um objeto endereço que contem:
+Rua
+Cidade
+CEP
+exibirEndereço(endereco)
+*/
 
 let endereco = {
     Rua: 'Professor Machado Lira',

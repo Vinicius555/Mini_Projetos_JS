@@ -1,28 +1,30 @@
-// Objeto Postagem de Blog
-// Eu quero que você crie neste exercício um objeto de postagem de blog que vai 
-// Conter as seguintes propriedades
-// postagem
-/*
+/* 
+Objeto Postagem de Blog
+ Eu quero que você crie neste exercício um objeto de postagem de blog que vai 
+Conter as seguintes propriedades
+postagem
 titulo
 mensagem
 autor
 vizualiações
 comentarios
-    (autor,mensagem)
+(autor,mensagem)
 estaAoVivo
+
+tente melhorar as explicações em pequenos resumos ;D
 */
 
 
 let postagem = {
     titulo: 'Novo Post',
     mensagem: 'Desistir e para os fracos',
-    autor:'Desconhecido',
+    autor: 'Desconhecido',
     visualizacoes: 7,
-    comentario : [
-        {autor:'Sócrates',mensagem:'Só sei que nada sei'},
-        {autor:'Aristóteles',mensagem:'A esperança é o sonho do homem acordado.'}
+    comentario: [
+        { autor: 'Sócrates', mensagem: 'Só sei que nada sei' },
+        { autor: 'Aristóteles', mensagem: 'A esperança é o sonho do homem acordado.' }
     ],
-    estaAoVivo : true
+    estaAoVivo: true
 }
 
 console.log(postagem);
